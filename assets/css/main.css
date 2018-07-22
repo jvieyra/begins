@@ -147,6 +147,9 @@ th {
 }
 
 @media (min-width:900px){
+  a {
+    
+  }
   th {
     display: table-cell;
   }
